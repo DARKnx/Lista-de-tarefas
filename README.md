@@ -3,6 +3,8 @@
 
 Um pequeno projeto para testar minhas habilidades de desenvolvimento web, contendo varias funções e um design bem moderno e minimalista.
 
+Veja o preview do site clicando [aqui](https://darknx.github.io/todo-list.io/) 
+
 ## ✒️ Sobre o design
 Como dito acima foi escolhido um design moderno e minimalista com pequenas animações nos containers do site, e retângulos com bordas arredondadas.
 
