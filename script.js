@@ -95,10 +95,10 @@ class todoList {
             break;
             case 'add':
                 this.getTask.push(value)
-                this.getTask.forEach((x, i) => this.getTask[i].id = i);
             break;
         }
-
+        
+        this.getTask.forEach((x, i) => this.getTask[i].id = i);
         this.setTaskList('set');
         this.renderTasks();
         
